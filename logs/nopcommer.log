@@ -1,0 +1,164 @@
+2025-04-05 16:06:31:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-05 16:06:57:INFO:************test_title_verification*************
+2025-04-05 16:07:10:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-05 16:07:25:INFO:************test_admin_login*************
+2025-04-05 16:08:28:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-05 23:58:01:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-05 23:58:23:INFO:************test_title_verification*************
+2025-04-05 23:59:02:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-05 23:59:11:INFO:************test_admin_login*************
+2025-04-06 00:05:42:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 13:40:48:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 13:51:48:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 13:52:37:INFO:************test_admin_login*************
+2025-04-06 13:56:46:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 13:56:59:INFO:************test_title_verification*************
+2025-04-06 13:57:12:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 13:57:16:INFO:************test_admin_login*************
+2025-04-06 13:57:49:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 14:14:11:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 14:14:22:INFO:************test_title_verification*************
+2025-04-06 14:14:42:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 14:15:07:INFO:************test_admin_login*************
+2025-04-06 14:16:34:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 15:12:38:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 15:13:10:INFO:************test_title_verification*************
+2025-04-06 15:13:27:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-06 15:13:33:INFO:************test_admin_login*************
+2025-04-06 15:14:47:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-07 11:19:26:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-07 11:19:56:INFO:************test_admin_login_data_driven*************
+2025-04-07 11:20:36:INFO:Test data is failed
+2025-04-07 11:20:41:INFO:test data is passed
+2025-04-07 11:20:53:INFO:test data is passed
+2025-04-07 11:20:53:INFO:Test admin data driven test is failed
+2025-04-07 11:23:29:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-07 11:23:37:INFO:************test_admin_login_data_driven*************
+2025-04-07 11:24:05:INFO:test data is passed
+2025-04-07 11:24:14:INFO:test data is passed
+2025-04-07 11:24:29:INFO:test data is passed
+2025-04-07 11:24:29:INFO:Test admin data driven test is passed
+2025-04-09 12:02:14:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:02:31:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:02:53:INFO:*********Login Completed**********
+2025-04-09 12:07:09:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:07:14:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:07:27:INFO:*********Login Completed**********
+2025-04-09 12:11:56:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:12:08:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:12:35:INFO:*********Login Completed**********
+2025-04-09 12:12:38:INFO:************* Providing Customer Info ***************
+2025-04-09 12:13:13:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:13:17:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:13:34:INFO:*********Login Completed**********
+2025-04-09 12:13:40:INFO:************* Providing Customer Info ***************
+2025-04-09 12:19:09:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:19:14:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:19:43:INFO:*********Login Completed**********
+2025-04-09 12:20:49:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:21:03:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:21:28:INFO:*********Login Completed**********
+2025-04-09 12:21:33:INFO:************* Providing Customer Info ***************
+2025-04-09 12:47:28:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:47:42:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:48:05:INFO:*********Login Completed**********
+2025-04-09 12:48:56:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:49:01:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:49:13:INFO:*********Login Completed**********
+2025-04-09 12:50:03:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:50:07:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:50:20:INFO:*********Login Completed**********
+2025-04-09 12:52:31:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:52:35:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:52:46:INFO:*********Login Completed**********
+2025-04-09 12:52:55:INFO:************* Providing Customer Info ***************
+2025-04-09 12:56:17:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:56:21:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:56:32:INFO:*********Login Completed**********
+2025-04-09 12:57:14:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:57:19:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:57:25:INFO:*********Login Completed**********
+2025-04-09 12:58:09:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:58:13:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:58:26:INFO:*********Login Completed**********
+2025-04-09 12:58:29:INFO:************* Providing Customer Info ***************
+2025-04-09 12:59:04:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 12:59:08:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 12:59:16:INFO:*********Login Completed**********
+2025-04-09 13:00:16:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 13:00:20:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 13:00:30:INFO:*********Login Completed**********
+2025-04-09 13:00:33:INFO:************* Providing Customer Info ***************
+2025-04-09 13:36:02:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-09 13:36:20:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-09 13:36:53:INFO:*********Login Completed**********
+2025-04-09 13:36:56:INFO:************* Providing Customer Info ***************
+2025-04-09 13:37:02:INFO:*************Customer added successfully**********
+2025-04-10 10:59:18:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-10 11:00:15:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-10 11:03:27:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-10 11:03:30:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-10 11:03:46:INFO:*********Login Completed**********
+2025-04-10 11:03:46:INFO:************Navigating to Customer Search Page***********
+2025-04-10 11:04:30:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-10 11:04:41:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-10 11:05:07:INFO:*********Login Completed**********
+2025-04-10 11:05:07:INFO:************Navigating to Customer Search Page***********
+2025-04-10 11:05:08:INFO:***********Search for Customer***********
+2025-04-10 11:09:09:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-10 11:09:15:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-10 11:10:10:INFO:*********Login Completed**********
+2025-04-10 11:10:10:INFO:************Navigating to Customer Search Page***********
+2025-04-10 11:10:12:INFO:***********Search for Customer***********
+2025-04-10 11:14:00:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-10 11:14:12:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-10 11:15:05:INFO:*********Login Completed**********
+2025-04-10 11:15:05:INFO:************Navigating to Customer Search Page***********
+2025-04-10 11:15:08:INFO:***********Search for Customer***********
+2025-04-10 11:18:55:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-10 11:19:12:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-10 11:20:05:INFO:*********Login Completed**********
+2025-04-10 11:20:05:INFO:************Navigating to Customer Search Page***********
+2025-04-10 11:20:06:INFO:***********Search for Customer***********
+2025-04-10 11:23:57:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-10 11:24:02:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-10 11:24:20:INFO:*********Login Completed**********
+2025-04-10 11:24:20:INFO:************Navigating to Customer Search Page***********
+2025-04-10 11:25:15:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-10 11:25:19:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-10 11:25:34:INFO:*********Login Completed**********
+2025-04-10 11:25:34:INFO:************Navigating to Customer Search Page***********
+2025-04-10 11:26:18:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-10 11:26:23:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-10 11:26:38:INFO:*********Login Completed**********
+2025-04-10 11:26:38:INFO:************Navigating to Customer Search Page***********
+2025-04-10 11:26:41:INFO:***********Search for Customer***********
+2025-04-11 13:44:51:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-11 13:45:07:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-11 13:45:34:INFO:*********Login Completed**********
+2025-04-11 13:45:37:INFO:************* Providing Customer Info ***************
+2025-04-11 13:45:43:INFO:*************Customer added successfully**********
+2025-04-11 13:48:36:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-11 13:48:40:INFO:************test_title_verification*************
+2025-04-11 13:48:51:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-11 13:48:55:INFO:************test_admin_login*************
+2025-04-11 13:49:15:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-11 13:49:19:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-11 13:49:34:INFO:*********Login Completed**********
+2025-04-11 13:49:34:INFO:************Navigating to Customer Search Page***********
+2025-04-13 11:24:39:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 11:24:48:INFO:************test_title_verification*************
+2025-04-13 11:25:11:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 11:25:15:INFO:************test_admin_login*************
+2025-04-13 11:26:16:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 11:26:22:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-13 11:26:46:INFO:*********Login Completed**********
+2025-04-13 11:26:46:INFO:************Navigating to Customer Search Page***********
+2025-04-13 14:11:46:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 14:11:59:INFO:************test_title_verification*************
+2025-04-13 14:12:15:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 14:12:20:INFO:************test_admin_login*************
+2025-04-13 14:13:09:INFO:patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-13 14:13:13:INFO:*************Test_03_Add_New_Customer started**********
+2025-04-13 14:13:26:INFO:*********Login Completed**********
+2025-04-13 14:13:26:INFO:************Navigating to Customer Search Page***********
